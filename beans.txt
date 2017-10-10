@@ -1,7 +1,7 @@
 Some info to fill out
 
-Name:
-Email:
-Have you made an account on SSI slack yet:
-Fun fact about yourself:
+Name: Peter Maldonado
+Email: phm@stanford.edu
+Have you made an account on SSI slack yet: yup
+Fun fact about yourself: I enjoy pancakes
 
