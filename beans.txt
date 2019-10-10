@@ -1,7 +1,7 @@
 Some info to fill out
 
-Name: Not troy
+Name: Jimothy
 Email:
 Have you made an account on SSI slack yet:
-Fun fact about yourself: Narwhales sure are cool
+Fun fact about yourself: I love git
 
